@@ -1,83 +1,83 @@
 export let employeeDB = [{
     id: 1,
-    fullName: "Bob Jones",
-    designation: "JavaScript Developer",
+    fullName: "Bilal",
+    designation: "React JS Developer",
     gender: "male",
     teamName: "TeamA"
 },
 {
     id: 2,
-    fullName: "Jill Bailey",
+    fullName: "Ayesha",
     designation: "Node Developer",
     gender: "female",
     teamName: "TeamA"
 },
 {
     id: 3,
-    fullName: "Gail Shepherd",
+    fullName: "Dua",
     designation: "Java Developer",
     gender: "female",
     teamName: "TeamA"
 },
 {
     id: 4,
-    fullName: "Sam Reynolds",
+    fullName: "Nadeem",
     designation: "React Developer",
     gender: "male",
     teamName: "TeamB"
 },
 {
     id: 5,
-    fullName: "David Henry",
+    fullName: "Daniyal",
     designation: "DotNet Developer",
     gender: "male",
     teamName: "TeamB"
 },
 {
     id: 6,
-    fullName: "Sarah Blake",
+    fullName: "Mehvish",
     designation: "SQL Server DBA",
     gender: "female",
     teamName: "TeamB"
 },
 {
     id: 7,
-    fullName: "James Bennet",
+    fullName: "Junaid",
     designation: "Angular Developer",
     gender: "male",
     teamName: "TeamC"
 },
 {
     id: 8,
-    fullName: "Jessica Faye",
+    fullName: "Fatima",
     designation: "API Developer",
     gender: "female",
     teamName: "TeamC"
 },
 {
     id: 9,
-    fullName: "Lita Stone",
+    fullName: "Laraib",
     designation: "C++ Developer",
-    gender: "female",
+    gender: "male",
     teamName: "TeamC"
 },
 {
     id: 10,
-    fullName: "Daniel Young",
+    fullName: "Farhan",
     designation: "Python Developer",
     gender: "male",
     teamName: "TeamD"
 },
 {
     id: 11,
-    fullName: "Adrian Jacobs",
+    fullName: "Ahsan",
     designation: "Vue Developer",
     gender: "male",
     teamName: "TeamD"
 },
 {
     id: 12,
-    fullName: "Devin Monroe",
+    fullName: "Hamza",
     designation: "Graphic Designer",
     gender: "male",
     teamName: "TeamD"
